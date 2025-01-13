@@ -15,4 +15,7 @@
     .logo-ticker-image{
         @apply h-8 w-auto;
     }
+    .tag{
+        @apply inline-flex text-sm border border-[#222]/10 px-3 py-1 rounded-lg tracking-tight
+    }
 }
